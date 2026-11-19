@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="270" viewBox="0 0 720 270" role="img" aria-labelledby="title desc">
+<title id="title">PROJECT 002 - Dashboards e analise de dados</title><desc id="desc">Projetos de estudo com Excel e Power BI, incluindo organizacao de bases, indicadores, metricas e visualizacoes para apoiar decisoes de negocio.</desc>
+<path d="M14 1H688L719 32V258H1V14Z" fill="#17101B" stroke="#FF3B81" stroke-width="2"/><path d="M14 1V20H1M688 1V20H700" stroke="#45DFFF" stroke-width="2" fill="none"/>
+<rect x="25" y="24" width="8" height="8" fill="#FF3B81"/><path d="M45 28H260" stroke="#B44AFF" stroke-width="2"/><path d="M25 61H695M25 226H695" stroke="#4B304B" stroke-width="1"/>
+<text x="25" y="49" fill="#FF3B81" font-family="monospace" font-size="12" letter-spacing="2">PROJECT_002 // DATA ANALYTICS</text>
+<text x="25" y="99" fill="#B44AFF" font-family="Arial,sans-serif" font-size="28" font-weight="700">DASHBOARDS E ANALISE DE DADOS</text>
+<text x="25" y="132" fill="#E8DDEB" font-family="Arial,sans-serif" font-size="16">Estudos com Excel e Power BI: organizacao de bases,</text>
+<text x="25" y="156" fill="#E8DDEB" font-family="Arial,sans-serif" font-size="16">indicadores e visualizacoes para apoiar decisoes de negocio.</text>
+<text x="25" y="196" fill="#45DFFF" font-family="monospace" font-size="13">EXCEL  /  POWER QUERY  /  POWER BI  /  DAX</text>
+<text x="25" y="249" fill="#45DFFF" font-family="monospace" font-size="11">CAPRI_PROTOCOL :: REPOSITORY_NODE</text></svg>

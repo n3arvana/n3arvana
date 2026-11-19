@@ -2,7 +2,7 @@
 <rect width="900" height="74" rx="5" fill="#17101B"/>
 <rect x="0" y="0" width="5" height="74" fill="#B44AFF"/>
 <text x="26" y="29" fill="#B44AFF" font-family="monospace" font-size="12" letter-spacing="2">CAPRI//NET  —  MODULE 02</text>
-<text x="26" y="55" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="22" font-weight="700">TECH ARSENAL</text>
+<text x="26" y="55" fill="#B44AFF" font-family="Arial,sans-serif" font-size="22" font-weight="700">TECH ARSENAL</text>
 <path d="M650 54H860L875 39" stroke="#FF3B81" stroke-width="2" fill="none"/>
 <circle cx="875" cy="39" r="3" fill="#45DFFF"/>
 </svg>
