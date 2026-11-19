@@ -7,7 +7,6 @@ Assets vetoriais SVG para o README de perfil do GitHub.
 - `section-identity.svg`: cabeçalho da seção de apresentação.
 - `section-tech-stack.svg`: cabeçalho da seção de tecnologias.
 - `status-online.svg`: indicador de status.
-- `project-card-frame.svg`: moldura decorativa para cards de projetos.
 
 ## Como usar
 1. Crie uma pasta `assets` no repositório do seu perfil.
