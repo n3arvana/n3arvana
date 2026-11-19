@@ -1,16 +1,3 @@
-<!--
-CAPRI//NET — GitHub Profile README
-Antes de publicar:
-1. Confira os links de projetos e atualize os que ainda forem espaços reservados.
-2. Verifique se os arquivos da pasta assets/ estão no repositório.
-3. Revise a lista de tecnologias para refletir seu nível atual.
--->
-
-<div align="center">
-  <img src="./assets/banner.png" width="100%" alt="Banner cyberpunk CAPRI//NET" />
-  <br />
-  <img src="./assets/status-online.svg" alt="System online" />
-  <h1>GUILHERME.exe</h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=FF3B81&width=435&lines=%3E+Initializing+GuilhermeMartins.exe...;%3E+Status%3A+Learning+and+evolving." alt="Typing SVG" /></a>
   <p><strong>DESENVOLVIMENTO · DADOS · TECNOLOGIA</strong></p>
   <p>Explorando o universo dos dados e construindo soluções que transformam informação em conhecimento.</p>
