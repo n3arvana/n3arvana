@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="38" viewBox="0 0 190 38">
+<rect x="1" y="1" width="188" height="36" rx="4" fill="#17101B" stroke="#FF3B81"/>
+<circle cx="19" cy="19" r="5" fill="#FF3B81"/>
+<circle cx="19" cy="19" r="9" fill="none" stroke="#FF3B81" opacity=".35"/>
+<text x="36" y="24" fill="#FFFFFF" font-family="monospace" font-size="12" letter-spacing="1">SYSTEM ONLINE</text>
+</svg>
